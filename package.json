@@ -1,0 +1,10 @@
+{
+  "name": "unitproject",
+  "version": "1.0.0",
+  "description": "A basic static site for the Unit Galaxy Project",
+  "scripts": {
+    "start": "echo 'No build step needed.'"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
